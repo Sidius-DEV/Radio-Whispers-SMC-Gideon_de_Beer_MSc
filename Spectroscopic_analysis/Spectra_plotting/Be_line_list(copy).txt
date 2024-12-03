@@ -1,0 +1,17 @@
+H-ζ,3889.049,yellow
+H-ε,3970.072,yellow
+HeI,4026.191,orange
+H-δ,4101.74,yellow
+HeI,4120.99,orange
+HeI,4143.76,orange
+H-γ,4340.462,yellow
+HeI,4387.929,orange
+HeI,4471.479,orange
+HeII,4542,blue
+HeII,4685.8041,blue
+HeI,4713.38,orange
+H-β,4861.3615,yellow
+HeI,4921.931,orange
+H-α,6562.8518,yellow
+HeI,6678,orange
+HeI,7281,orange

@@ -1,0 +1,10 @@
+$O_2$,7594,green
+$O_2$,6867,green
+D1&D2,5896,green
+Fe,5270,green
+Mg,5183,green
+CaI,4308,green
+Ca H&K,3934,green
+FeI&OI,5572.849,maroon
+FeI&OI,6297.800,maroon
+FeI&OI+II,6725,maroon
