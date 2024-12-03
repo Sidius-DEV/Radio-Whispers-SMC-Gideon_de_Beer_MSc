@@ -1,0 +1,15 @@
+extractor_config:
+    point_extractor_by_frame:
+    -   details: {}
+        task: T4
+        tools:
+        - 0
+    question_extractor:
+    -   task: T0
+    -   task: T3
+    -   task: T5
+    -   task: T6
+workflow_id: 24257
+workflow_version:
+    max: '38'
+    min: '1'

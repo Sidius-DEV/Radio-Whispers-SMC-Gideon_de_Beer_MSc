@@ -1,0 +1,27 @@
+T0.answers.0.label: 'Yes'
+T0.answers.1.label: 'No'
+T0.question: Do you see an associated optical source inside the central blue ellipse?
+T3.answers.0.label: '![point_source.png](https://panoptes-uploads.zooniverse.org/project_attached_image/e813946d-52b9-484e-b818-6c7f632ad6d3.png)Point
+    source or Star-like'
+T3.answers.1.label: '![bright_core_radial_diffuse.png](https://panoptes-uploads.zooniverse.org/project_attached_image/b80f4e7c-8d77-4cf1-8bb2-c8f24af80628.png)Bright
+    core in diffuse emission'
+T3.answers.2.label: '![homogenously_diffuse.png](https://panoptes-uploads.zooniverse.org/project_attached_image/1d169b37-43ad-47de-980f-e8a5a08b1676.png)Homogeneously
+    diffuse source'
+T3.answers.3.label: '![multiple_sources.png](https://panoptes-uploads.zooniverse.org/project_attached_image/dfaf96b9-6480-413e-9cde-c5a4cb46c5c7.png)Multiple
+    sources inside'
+T3.answers.4.label: '![oddly_shaped.png](https://panoptes-uploads.zooniverse.org/project_attached_image/b76c4bc8-ddab-4366-9a6c-9c7524ecc2ad.png)Oddly
+    shaped (not sure)'
+T3.question: What would best describe the shape of what you see inside the central
+    blue ellipse?
+T4.instruction: Please click on the centres of all ellipses (solid blue and dotted
+    green) you believe are associated with this extended source
+T4.tools.0.label: Point tool
+T5.answers.0.label: Yes it looks like a radio point source
+T5.answers.1.label: The radio source is showing extended morphology
+T5.question: Looking only at the radio contours of the central source, does it look
+    like a radio point source?
+T6.answers.0.label: Yes, there seem to be associated regions close to the central
+    source.
+T6.answers.1.label: No nearby marked regions seem associated with the central source.
+T6.question: Are there any ellipses (Blue or dotted green), that seem associated with
+    this extended source?
